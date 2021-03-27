@@ -1,0 +1,22 @@
+body{
+background-color: lightgreen;
+}
+h4{
+    font-family: 'Potta One', cursive;
+}
+.line {
+    height: 6px;
+    background-color:turquoise;
+    width: 70px;
+}
+#camera
+{
+  border: 2px dashed black;
+  width: 365px;
+  height: 350px; 
+}
+#result{
+  border: 2px dashed black;
+  width: 365px;
+  height: 295px; 
+}
